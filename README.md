@@ -13,4 +13,12 @@ As an operator, I may be transitioning to a new technology and therefore need ex
 ## Business Cost of an Outage
 Today, tech business lose loads of revenue when an outage happens, and all of our tooling is responsive. We don't really focus on how do we share knowledge about common outage scenarios in a way that allows us to test if we are ready ahead of time. Instead, we hit these issues, use monitoring tools to identify and resolve, and continue prodding forward. There is a huge overlap in the types of outages we all hit, and as the tech industry matures, the types of outages will only overlap more and more across stacks. This means that collecting a centralized data store of outage scnearios, or things to harden would be very useful in minimizing potential outages that might happen. This presents the opportunity to make something far more preventetive in nature, a vaccine if you will against outages.
 
+## How will this work?
 
+What are the pieces of this product puzzle?
+1. A clean SDK for writing scenarios.
+2. A way to publish scenarios into a publically accessible storage set.
+3. A way to run a scenario, monitor the system, and debug it.
+4. A way to track and score fixing the scenario. A rating for how well someone responded to a scenario.
+5. Ability to extract a scenario's generalizable template, and be able to apply it to your own custom stack, so that you can verify your own ability to withstand that scenario.
+6. Ability to run a "report" against your own stack that tells you which scenarios yield an "outage".
