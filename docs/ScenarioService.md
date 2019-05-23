@@ -9,3 +9,7 @@ It will allow you to:
 5. Delete a scenario.
 6. See the amount of times a scenario has been run.
 
+Technology proposal:
+1. Use S3 to store the Helm chart.
+2. Use Postgres to store the metadata about the helm chart with the pointer to the s3.
+3. Use a Kubernetes containerized typecript node server api-layer that accepts these CRUD calls. 
