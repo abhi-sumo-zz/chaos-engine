@@ -22,3 +22,13 @@ What are the pieces of this product puzzle?
 4. A way to track and score fixing the scenario. A rating for how well someone responded to a scenario.
 5. Ability to extract a scenario's generalizable template, and be able to apply it to your own custom stack, so that you can verify your own ability to withstand that scenario.
 6. Ability to run a "report" against your own stack that tells you which scenarios yield an "outage".
+
+## Projects
+
+- [ ] Design Document for how to write a Scenario.
+- [ ] Design Document for how to publish, store, update, and retrieve scenarios.
+- [ ] UX for how someone can browse scenarios, their scores, etc.
+- [ ] Design Document for the running a scenario, and single round of the game.
+- [ ] Design Document for Extending Scenarios beyond the playground.
+- [ ] Design Document for Running Reports.
+
