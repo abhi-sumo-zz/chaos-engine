@@ -35,3 +35,7 @@ Features this Library has:
 ## Seeding the Library
 1) All Kubernetes post-mortems can be converted to a scenario.
 2) The Failure Stories blog posts can be conveted to scenarios.
+
+## For Illuminate
+- We will have a leaderboard that will be hooked up to the badge scanner so that we can get the real names.
+- A good plushy prize for the person who solves all five.
