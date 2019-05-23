@@ -26,7 +26,7 @@ What are the pieces of this product puzzle?
 ## Projects
 
 - [x] Design Document for how to write a Scenario.
-- [ ] Design Document for how to publish, store, update, and retrieve scenarios.
+- [x] Design Document for how to publish, store, update, and retrieve scenarios.
 - [ ] UX for how someone can browse scenarios, their scores, etc.
 - [ ] Design Document for the running a scenario, and single round of the game.
 - [ ] Design Document for Extending Scenarios beyond the playground.
