@@ -22,6 +22,8 @@ Pros:
 Pros:
 - Hook that yields revenue because they can now actually audit their own stacks and see if they are hardened against the condition.
 
+**To Begin with we will focus on Option A**
+
 ## Business Cost of an Outage
 Today, tech business lose loads of revenue when an outage happens, and all of our tooling is responsive. We don't really focus on how do we share knowledge about common outage scenarios in a way that allows us to test if we are ready ahead of time. Instead, we hit these issues, use monitoring tools to identify and resolve, and continue prodding forward. There is a huge overlap in the types of outages we all hit, and as the tech industry matures, the types of outages will only overlap more and more across stacks. This means that collecting a centralized data store of outage scnearios, or things to harden would be very useful in minimizing potential outages that might happen. This presents the opportunity to make something far more preventetive in nature, a vaccine if you will against outages.
 
