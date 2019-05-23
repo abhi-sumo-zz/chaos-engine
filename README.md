@@ -50,7 +50,12 @@ What are the pieces of this product puzzle?
 ## Things to do for Reinvent Demo
 - [ ] K8s Cluster pool
 - [ ] Monitoring agent for monitoring each of the clusters for the game.
+    - [ ] Sumo Collectors for K8s.
+    - [ ] Sumo test accounts for each cluster/scenario spin up.
+    - [ ] Custom Metrics through Prometheus.
+    - [ ] Logging
 - [ ] Which systems under test do we provide.
+    - [ ] 
 - [ ] five best (highlights sumo as really useful, and meaningful signals) failure scenarios
 - [ ] Leaderboard
 - [ ] Failure Library
