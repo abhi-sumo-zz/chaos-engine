@@ -31,4 +31,5 @@ What are the pieces of this product puzzle?
 - [ ] Design Document for the running a scenario, and single round of the game.
 - [ ] Design Document for Extending Scenarios beyond the playground.
 - [ ] Design Document for Running Reports.
+- [ ] Business Validation of the User Need and Value.
 
