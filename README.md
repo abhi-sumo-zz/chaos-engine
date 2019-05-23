@@ -48,15 +48,23 @@ What are the pieces of this product puzzle?
 - [ ] Business Validation of the User Need and Value.
 
 ## Things to do for Reinvent Demo
-- [ ] K8s Cluster pool
-- [ ] Monitoring agent for monitoring each of the clusters for the game.
+- [ ] K8s Cluster pool **(MVP)**
+- [ ] Monitoring agent for monitoring each of the clusters for the game. **(MVP)**
     - [ ] Sumo Collectors for K8s.
     - [ ] Sumo test accounts for each cluster/scenario spin up.
     - [ ] Custom Metrics through Prometheus.
     - [ ] Logging
-- [ ] Which systems under test do we provide.
+- [ ] Which systems under test do we provide. **(MVP)**
     - [ ] 
-- [ ] five best (highlights sumo as really useful, and meaningful signals) failure scenarios
+- [ ] Failure Library **(MVP)** - Failure effector
+    - [ ] https://updates.moonlightwork.com/outage-post-mortem-87370 (this could work)
+    - [ ] https://github.com/zalando-incubator/kubernetes-on-aws/blob/dev/docs/postmortems/jan-2019-dns-outage.md
+    - [ ] 
+- [ ] five best (highlights sumo as really useful, and meaningful signals) failure scenarios **(MVP)**
 - [ ] Leaderboard
-- [ ] Failure Library
+    - [ ] UI to show top ranking users.
+    - [ ] connection to Sumo APIs for receiving alerts via webhook that designate start and end times.
+    - [ ] Table of users and times taken
+    - [ ] Another screen for aggregate by company.
+
 
