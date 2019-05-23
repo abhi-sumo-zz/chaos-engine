@@ -47,3 +47,11 @@ What are the pieces of this product puzzle?
 - [ ] Design Document for Running Reports.
 - [ ] Business Validation of the User Need and Value.
 
+## Things to do for Reinvent Demo
+- [ ] K8s Cluster pool
+- [ ] Monitoring agent for monitoring each of the clusters for the game.
+- [ ] Which systems under test do we provide.
+- [ ] five best (highlights sumo as really useful, and meaningful signals) failure scenarios
+- [ ] Leaderboard
+- [ ] Failure Library
+
